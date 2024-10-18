@@ -1,5 +1,5 @@
 {
-  "name": "aakash_portfolio",
+  "name": "rishishaw_portfolio",
   "homepage": "https://aakashsh1999.github.io/",
   "version": "0.1.0",
   "private": true,
@@ -18,16 +18,13 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+   "start": "cross-env DISABLE_ESLINT_PLUGIN=true BROWSER=chrome react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+  "resolutions": {
+    "eslint-config-react-app": "7.0.1"
   },
   "browserslist": {
     "production": [
@@ -42,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "cross-env": "^7.0.3",
     "gh-pages": "^3.2.3"
   }
 }
