@@ -1,6 +1,6 @@
 {
   "name": "rishishaw_portfolio",
-  "homepage": "https://aakashsh1999.github.io/",
+  "homepage": "https://Rishikumar728.github.io/Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,9 @@
    "start": "cross-env DISABLE_ESLINT_PLUGIN=true BROWSER=chrome react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
   },
   "resolutions": {
     "eslint-config-react-app": "7.0.1"

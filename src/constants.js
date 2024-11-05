@@ -2,7 +2,7 @@ export const techStack = [
   { name: "Java", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" },
   { name: "Kotlin", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" }, // Added a comma here
   { name: "C Language", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" },
-  { name: "TypeScript", link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" },
+  { name: "Svelte", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" },
 
   { name: "NodeJS", link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" },
   { name: "Flutter", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" },
@@ -33,25 +33,18 @@ export const contactLinks = [
 export const serviceData = [
   {
     name: 'Web Application Development',
-    desc: 'Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design user interface design  authoring, including standardised code and proprietary software user experience design and search engine',
+    desc: 'Web development involves building and maintaining websites, covering both frontend and backend aspects. It uses languages like HTML, CSS, and JavaScript for the user interface, while server-side technologies like Node.js and databases manage data. The goal is to create responsive, engaging, and efficient web experiences.',
     img: "https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-web-development-coding-kiranshastry-lineal-color-kiranshastry.png"
   },
   {
     name: 'Android Application Development',
-    desc: `We provide a range of mobile application development services
-    including custom mobile development on Android platforms, building
-    cross-platform apps, designing user experience and integrating
-    novel mobile interfaces such as chat and voice`,
+    desc: `Android development focuses on creating mobile applications for Android devices, utilizing tools like Java, Kotlin, and Android Studio. This process includes designing intuitive user interfaces, optimizing performance, and integrating device features to deliver a seamless user experience, ensuring apps are responsive, functional, and visually appealing.`,
     img: "https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-app-development-responsive-web-design-justicon-lineal-color-justicon.png"
   },
 
   {
     name: 'Backend Development',
-    desc: `Graphic design is a craft where professionals create visual
-    content to communicate messages. By applying visual hierarchy and
-    page layout techniques, designers use typography and pictures to
-    meet users' specific needs and focus on the logic of displaying
-    elements in interactive designs, to optimize the user experience.`,
+    desc: `Backend development focuses on server-side logic, databases, and APIs to support applications. Using languages like Python, Java, or Node.js, backend developers ensure data processing, storage, and secure connections, building a foundation for responsive and dynamic user experiences.`,
     img: "https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-backend-no-code-flaticons-flat-flat-icons.png"
   },
 
