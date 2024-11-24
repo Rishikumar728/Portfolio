@@ -1,0 +1,173 @@
+[33mcommit f20c56c0e8ac9a5465b0dc1bb29e102f95b8f38d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rishi Shaw <shawrishi728@gmail.com>
+Date:   Tue Nov 5 14:33:57 2024 +0530
+
+    portfolio made
+
+[33mcommit 06b62b7d36b5f419caa682103315a6e5f26262fd[m
+Author: Rishi Shaw <shawrishi728@gmail.com>
+Date:   Fri Oct 18 05:33:57 2024 +0530
+
+    Initial commit for rishishaw_portfolio
+
+[33mcommit b4c3b6030830be36ec6ca9ffdf2278f6e3516d17[m
+Merge: 986a0b5 7212002
+Author: Aakash Sharma <55510218+aakashsh1999@users.noreply.github.com>
+Date:   Wed Apr 20 17:42:15 2022 +0530
+
+    Merge pull request #2 from aakashsh1999/feature/route
+    
+    routes updated
+
+[33mcommit 7212002e31ff67c75a6125181d579522b2469b95[m[33m ([m[1;31morigin/feature/route[m[33m)[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Wed Apr 20 17:37:59 2022 +0530
+
+    routes updated
+
+[33mcommit 986a0b57502346473ce40879d20074e2fbc78a8f[m
+Merge: 6b3815b 13f792b
+Author: Aakash sharma <84507775+asharmaCloudstok@users.noreply.github.com>
+Date:   Tue Apr 19 01:36:00 2022 +0530
+
+    Merge pull request #1 from aakashsh1999/asharmaCloudstok-patch-1
+    
+    Update Contact.jsx
+
+[33mcommit 13f792ba7f287db6d1241c4263c25fc6df3d314a[m[33m ([m[1;31morigin/asharmaCloudstok-patch-1[m[33m)[m
+Author: Aakash sharma <84507775+asharmaCloudstok@users.noreply.github.com>
+Date:   Tue Apr 19 01:35:50 2022 +0530
+
+    Update Contact.jsx
+
+[33mcommit 6b3815bf691f682811d301f208f579ebd5fca420[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Wed Apr 6 12:52:59 2022 +0530
+
+    changes made
+
+[33mcommit e557ce9d63618a57818d7591ec3d363d1513ad14[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Sun Apr 3 00:44:42 2022 +0530
+
+    changes made
+
+[33mcommit 0c5febcd5d584ab94fcb23a57ab816cd29ceb679[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Wed Mar 30 13:46:36 2022 +0530
+
+    animation added
+
+[33mcommit 697939e63aff4ce24482ed54320d7911a4dabd4b[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Tue Mar 29 17:33:55 2022 +0530
+
+    framer-motion added
+
+[33mcommit 5bd6022be33dd29341bb725362933805112c64f2[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Mon Mar 28 22:37:02 2022 +0530
+
+    changes made
+
+[33mcommit b1149da208c8d4f94c2f87a89a88ec45216b259d[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Mon Mar 28 17:27:40 2022 +0530
+
+    theme modified
+
+[33mcommit 32acc0d09867e2ee60602b0d0350c71c4090117b[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Mon Mar 28 15:36:37 2022 +0530
+
+    theme added in the portfolio
+
+[33mcommit 6d1d9eeedb09eb1252d51606e9e7fbb27aad3d5c[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Mon Mar 28 13:26:33 2022 +0530
+
+    theme added
+
+[33mcommit 7fcad4435188efbd6fabad0ac974ebddfda4987b[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Fri Mar 25 22:35:21 2022 +0530
+
+    changes made
+
+[33mcommit d6d4b105e63340751f79c8ea3c69e86d6ab593dd[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Fri Mar 25 16:05:38 2022 +0530
+
+    changes made;
+
+[33mcommit 19ef4bc9c1f641292d4bb57777c90c0289a0da17[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Fri Mar 25 16:03:32 2022 +0530
+
+    project section created
+
+[33mcommit b9c502775c0e27dd67d65a53de7706e8f2285313[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Thu Mar 24 15:51:00 2022 +0530
+
+    changes made
+
+[33mcommit e43fc60ad32bdf2013300c7d1003a4c0aca00c44[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Thu Mar 24 15:47:34 2022 +0530
+
+    changes made
+
+[33mcommit 05d03eeaaef506df5fbe1b945417ef600a1af366[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Thu Mar 24 15:38:05 2022 +0530
+
+    route update
+
+[33mcommit bf617dee1122ae7bd8f9972852e0fe125536baa6[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Thu Mar 24 15:25:11 2022 +0530
+
+    changes made
+
+[33mcommit df72354ffe7f288d4fc8faf290b769d1f0fbf57e[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Thu Mar 24 15:22:59 2022 +0530
+
+    bug fixed
+
+[33mcommit faabccd5b0daafeaa6ee02ac9e8051df6caa3b7e[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Thu Mar 24 15:20:02 2022 +0530
+
+    changes made
+
+[33mcommit fbb1ad809a0cdefa07964c3eb21c70f4c6d68def[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Thu Mar 24 15:17:21 2022 +0530
+
+    navbar update
+
+[33mcommit f2a8c8d89efeeef0002f5418863e9b844c6b147d[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Thu Mar 24 15:14:40 2022 +0530
+
+    package.json updated
+
+[33mcommit d15b9ba41d087ab8dc1a05dafadb820e99121a92[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Thu Mar 24 15:10:25 2022 +0530
+
+    changes made
+
+[33mcommit 7c0d2ab22e1098c729b65eb1a935b5b9edc160b0[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Thu Mar 24 15:05:25 2022 +0530
+
+    Portfolio Initialised
+
+[33mcommit 383075c8ed8484ec8d1cfb64c3d5246957188b9a[m
+Author: asharmaCloudstok <asharma@cloudstok.com>
+Date:   Tue Mar 22 14:22:53 2022 +0530
+
+    Initialize project using Create React App
